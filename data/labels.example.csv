@@ -1,0 +1,7 @@
+clip,tag,noise_flag
+example_0001_t1.wav,male,
+example_0002_t1.wav,female,
+example_0003_t2.wav,female,noise
+example_0004_t1.wav,male,noise
+example_0005_t1.wav,noise,noise
+example_0006_t2.wav,male,

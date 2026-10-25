@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+results/
+tagged/
+clips/
+data/labels.csv
+data/calls.csv
+*.wav
+*.mp3
+.DS_Store
